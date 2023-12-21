@@ -87,10 +87,10 @@ div,li {
   border-radius: 50%;
 }
 .consept_text{
-  width: 60%
+  width: 60%;
 }
 .concept_img{
-  width: 35%
+  width: 35%;
 }
 .concept_a{
   display: flex;
@@ -121,6 +121,7 @@ div,li {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  padding:10px;
 }
 .menu1_coffee{
   display: flex;
@@ -165,4 +166,7 @@ div,li {
 }
 .footer_img{
   padding:10px 0px 0px 0px;
+}
+.menu_kakaku{
+  text-align: right;
 }
